@@ -6,4 +6,6 @@ I am excited to share with you my latest project, titled "Watching Stocks Projec
 
 Your input and suggestions will greatly contribute to the refinement and improvement of my analysis. Thank you in advance for taking the time to review my work!
 
+Here is the link : https://github.com/Abdouhaji/Abdouhaji/blob/main/WatchingStocksProject_usingSQL.pdf
+
 Please feel free to ask any questions or share your thoughts on the "Watching Stocks Project."
